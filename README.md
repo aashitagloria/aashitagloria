@@ -30,7 +30,7 @@
 <!-- <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  -->
 <img align="right" height="300" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
-### I am a Software Developer pursuing BTECH CSE
+ &nbsp;&nbsp; I am a Software Developer pursuing BTECH CSE
 
 -   🔭 I’m a Technology Enthusiast! I love exploring new technologies. :grin:
 -   🌱 I’m into Software Development and AI
