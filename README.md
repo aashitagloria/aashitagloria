@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"I Would Rather Die Of Passion Than Boredom"</b></h4>
+  <h4 align="center"><b>"People be People, You be You"</b></h4>
 </p>
 
 <p align="center">
