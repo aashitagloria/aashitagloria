@@ -3,11 +3,11 @@
 <img src="https://github.com/aashitagloria/aashitagloria/blob/main/My%20Picture%203.jpg" width="400" height="400"/>
 </p>
 <p>
-  <h1 align="center"><b>Hello there, I'm Aashita 👋</b></h1>
+  <h1 align="center"><b> Hey there, I'm Aashita 👩‍💻</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b>"The best way to predict your future is to create it"</b></h4>
+  <h4 align="center"><b>"I Would Rather Die Of Passion Than Boredom"</b></h4>
 </p>
 
 <p align="center">
@@ -29,14 +29,13 @@
 
 ### I am a Software Developer pursuing BTECH CSE
 
--   🔭 I’m currently working on various projects and research papers :grin:
--   🌱 I’m a Full Stack Developer and Data Scientist.
--   👯 I’m looking to collaborate with other Developers :wink:
--   🥅 2021 Goals: Contribute to Open Source projects and Try out Competitive Coding
--   💬 Ask me about anything, I am happy to help :smile:
+-   🔭 I’m a Technology Enthusiast! I love exploring new technologies. :grin:
+-   🌱 I’m into Software Development and AI
+-   👯 I’m looking forward to collaborate with fellow developers for Hackathons :wink:
+-   🥅 Aspiration: Building a better version of myself everyday
+-   💬 Feel free to leave your valuable suggestions:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
--   🧗 I try to: Go beyond and push my limits
--   ⚡ Fun fact: I love connecting with different people :raised_hands:
+-   ⚡ Fun fact: I am also an aspiring YouTuber▶️:
 
 <br>
 
@@ -57,7 +56,6 @@
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <!-- <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
 <img align="left" alt="java" width="35px" src="https://symbols-electrical.getvecta.com/stencil_85/10_java-icon.e6c5a2a97a.jpg" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
