@@ -4,7 +4,7 @@
 </p>
 <p>
 <!--   <h1 align="center"><b> Hey there, I'm Aashita 👩‍💻</b></h1> -->
-  #Hello, I am Aashita<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
+  #Hello, I am Aashita<img src="butterfly.gif" width=30%><img src="dog.gif" width=20%>
 
 </p>
 
