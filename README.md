@@ -4,7 +4,7 @@
 </p>
 <p>
   <h1 align="center"><b> Hey there, I'm Aashita 👩‍💻</b></h1>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="butterfly.gif" width=30%><img src="dog.gif" width=20%>
+  <img src="butterfly.gif" align="center" width=30%><img align="center" src="dog.gif" width=20%>
 
 </p>
 
