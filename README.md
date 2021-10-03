@@ -3,8 +3,8 @@
 <img src="https://github.com/aashitagloria/aashitagloria/blob/main/My%20Picture%203.jpg" width="400" height="400"/>
 </p>
 <p>
-<!--   <h1 align="center"><b> Hey there, I'm Aashita 👩‍💻</b></h1> -->
-  #Hello, I am Aashita<img src="butterfly.gif" width=30%><img src="dog.gif" width=20%>
+  <h1 align="center"><b> Hey there, I'm Aashita 👩‍💻</b></h1>
+  <img src="butterfly.gif" width=30%><img src="dog.gif" width=20%>
 
 </p>
 
