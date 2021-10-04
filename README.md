@@ -30,8 +30,7 @@
 <!-- <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  -->
 <img align="right" height="300" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
- &nbsp;&nbsp; I am an Aspiring Software Developer currently pusring Computer Science Engineering
-
+ &nbsp;&nbsp; I am an Aspiring Software Developer currently pursuing CSE
 -   🔭 I’m a Technology Enthusiast! I love exploring new technologies. :grin:
 -   🌱 A.I and Data Science fascinate me
 -   👯 I’m looking forward to collaborate with fellow developers for Hackathons :wink:
