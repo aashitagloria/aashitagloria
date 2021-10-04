@@ -35,7 +35,7 @@
 -   🌱 A.I and Data Science fascinate me ||
 -   👯 I’m looking forward to collaborate with fellow developers for Hackathons :wink: ||
 -   🥅 Aspiration: Building a better version of myself everyday ||
--   💬 Feel free to leave your valuable suggestions || ||
+-   💬 Feel free to leave your valuable suggestions ||
 -   ⚡ Fun fact: I am also an aspiring YouTuber▶️
 
 <br>
