@@ -30,14 +30,14 @@
 <!-- <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  -->
 <img align="right" height="300" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
- &nbsp;&nbsp; I am an Aspiring Software Developer currently pursuing CSE
--   🔭 I’m a Technology Enthusiast! I love exploring new technologies. :grin:
--   🌱 A.I and Data Science fascinate me
--   👯 I’m looking forward to collaborate with fellow developers for Hackathons :wink:
--   🥅 Aspiration: Building a better version of myself everyday
--   💬 Feel free to leave your valuable suggestions:
--   📬 How to reach me: [Let's get in touch!][linkedin]
--   ⚡ Fun fact: I am also an aspiring YouTuber▶️:
+ I am an Aspiring Software Developer currently pursuing CSE ||
+-   🔭 I’m a Technology Enthusiast! I love exploring new technologies. :grin: ||
+-   🌱 A.I and Data Science fascinate me ||
+-   👯 I’m looking forward to collaborate with fellow developers for Hackathons :wink: ||
+-   🥅 Aspiration: Building a better version of myself everyday ||
+-   💬 Feel free to leave your valuable suggestions ||
+-   📬 How to reach me: [Let's get in touch!][linkedin] ||
+-   ⚡ Fun fact: I am also an aspiring YouTuber▶️
 
 <br>
 
@@ -114,7 +114,7 @@
 <br>
 
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Show some &nbsp;❤️&nbsp; ya'll by starring some of the repositories!</h3>
 </div><img src="https://github.com/aashitagloria/aashitagloria/blob/main/svg.svg" />
 
 [instagram]: https://www.instagram.com/aashitax/
