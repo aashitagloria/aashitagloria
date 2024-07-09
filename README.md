@@ -26,13 +26,15 @@
 <!-- <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  -->
 <img align="right" height="300" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
- 💼 I am working as CRM and Customer Loyalty Intern at L'Oréal, Paris <br>
--   🔭 I’m a Technology Enthusiast! I love exploring new technologies. :grin: ||
--   🌱 A.I and Data Science fascinate me ||
--   👯 I’m looking forward to collaborate with fellow developers for Hackathons :wink: ||
--   🥅 Aspiration: Building a better version of myself everyday ||
--   💬 Feel free to leave your valuable suggestions ||
--   ⚡ Fun fact: I am also an aspiring YouTuber▶️
+ 💼 I am working as CRM and Customer Loyalty Intern at L'Oréal, Paris 💄 <br>
+ 🚀 I offer a perfect blend of management and technology <br>
+ 🎓 Gonna recieve my Dual Master's degree in Management and Business Analytics in 2025 from a French Business School <br>
+ 👩🏻‍💻 I used to work as a Software Engineer (Salesforce developer ☁️) at Barclays 🏦 <br>
+ 🤝🏼 I believe in contributing to the Open Source community because one must never put a price on education <br>
+ 👯 Let's collaborate together for Hackathons <br>
+ 🔭 Aspiration: Building a better version of myself everyday <br>
+ 💬 Feel free to leave your valuable suggestions <br>
+ ⚡ Fun fact: I love ✍🏻 📖 ♟️✈️ 🎨
 
 <br>
 <br>
