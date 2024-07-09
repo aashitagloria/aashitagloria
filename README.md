@@ -51,7 +51,6 @@
 <br>
 <br>
 <br>
-### :zap: Github Stats
 
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=aashitagloria&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Aashita's Github Stats" width="60%">
   
