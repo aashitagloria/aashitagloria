@@ -60,6 +60,10 @@
 <br>
 <br>
 
+<p>
+ <h3 align="center"><b> My CREATIVE Journey &nbsp;&nbsp;<img src="Journey.gif" align="center" width=30%></b></h1> 
+</p>
+
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; ya'll by starring some of the repositories!</h3>
 </div><img src="https://github.com/aashitagloria/aashitagloria/blob/main/svg.svg" />
