@@ -1,12 +1,9 @@
-<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 <p align="center">
-<!-- <img src="https://github.com/aashitagloria/aashitagloria/blob/main/aashita_pic.jpg" width="100" height="100"/> -->
-<img src="https://github.com/aashitagloria/aashitagloria/blob/main/Linkedin%20final%20banner.png" />
+ <img src="https://github.com/aashitagloria/aashitagloria/blob/main/Linkedin%20final%20banner.png" />
 </p>
-<p>
-<!--   <h1 align="center"><b> Hey there, I'm Aashita 👩‍💻</b></h1> -->
- <h1 align="center"><b> Hey there, I'm Aashita &nbsp;&nbsp;<img src="butterfly.gif" align="center" width=30%><img align="center" src="dog.gif" width=20%></b></h1> 
 
+<p>
+ <h1 align="center"><b> Hey there, I'm Aashita &nbsp;&nbsp;<img src="butterfly.gif" align="center" width=30%><img align="center" src="dog.gif" width=20%></b></h1> 
 </p>
 
 <p>
@@ -18,13 +15,10 @@
 <a href="https://www.instagram.com/aashitax/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/aashitanoah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:aashitaxnoah@gmail.com?subject=Hi%20Aashita"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
 <br>
 
-<!-- <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
- -->
 <img align="right" height="200" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
  💼 I am working as CRM and Customer Loyalty Intern at L'Oréal, Paris 💄 <br>
  🚀 I offer a perfect blend of management and technology <br>
@@ -38,7 +32,7 @@
 
 <br>
 <br>
-<h4>Languages and Tools: <h4>
+<h4> Languages and Tools: <h4>
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -52,57 +46,18 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<!-- <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" /> -->
-<br>
-<br>
-<br>
-<br>
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
-</p>
 <br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
-
+<br>
+<br>
+<br>
 ### :zap: Github Stats
 
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=aashitagloria&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Aashita's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=aashitagloria&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Aashita's Top Languages">
 
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
-
-<!-- repos
-<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
-
 <br>
-
-<!-- ### :zap: Recent Github Activity -->
-
-<!--START_SECTION:activity-->
-
-<!-- 1. ❌ Closed PR [#1](https://github.com/codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
-2. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
-3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
- <!--END_SECTION:activity-->
-
 <br>
 
 <div align="center">
