@@ -1,6 +1,7 @@
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 <p align="center">
-<img src="https://github.com/aashitagloria/aashitagloria/blob/main/aashita_pic.jpg" width="100" height="100"/>
+<!-- <img src="https://github.com/aashitagloria/aashitagloria/blob/main/aashita_pic.jpg" width="100" height="100"/> -->
+<img src="https://github.com/aashitagloria/aashitagloria/blob/main/Linkedin%20final%20banner.png" width="100" height="100"/>
 </p>
 <p>
 <!--   <h1 align="center"><b> Hey there, I'm Aashita 👩‍💻</b></h1> -->
