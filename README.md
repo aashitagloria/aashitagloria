@@ -61,7 +61,7 @@
 <br>
 
 <p>
- <h3 align="center"><b> My Journey <br> <br> <img src="My Journey.gif" align="center" width=30%></b></h1> 
+ <h2 align="center"><b> My Journey <br> <br> <img src="My Journey.gif" align="center"></b></h2> 
 </p>
 
 <div align="center">
