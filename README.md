@@ -25,7 +25,7 @@
 
 <!-- <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  -->
-<img align="right" height="300" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
+<img align="right" height="300" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
  💼 I am working as CRM and Customer Loyalty Intern at L'Oréal, Paris 💄 <br>
  🚀 I offer a perfect blend of management and technology <br>
  🎓 Gonna recieve my Dual Master's degree in Management and Business Analytics in 2025 from a French Business School <br>
