@@ -59,10 +59,6 @@
 <br>
 <br>
 
-<p>
- <h2 align="center"><b> My Journey <br> <br> <img src="My Journey.gif" align="center"></b></h2> 
-</p>
-
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; ya'll by starring some of the repositories!</h3>
 </div><img src="https://github.com/aashitagloria/aashitagloria/blob/main/svg.svg" />
