@@ -54,7 +54,7 @@
 
  
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=aashitagloria&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Aashita's Top Languages">
+<img align="center" src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=aashitagloria&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Aashita's Top Languages">
 
 <br>
 <br>
