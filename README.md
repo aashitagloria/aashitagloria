@@ -20,7 +20,7 @@
 <br>
 
 <img align="right" height="200" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
- 💼 Ex-Gloabl CRM and Customer Loyalty Intern at L'Oréal, Paris 💄 <br>
+ 💼 Ex-Global CRM and Customer Loyalty Intern at L'Oréal, Paris 💄 <br>
  🚀 I offer a perfect blend of management and technology <br>
  🎓 Gonna recieve my Dual Master's degree in Management and Business Analytics in 2025 from a French Business School <br>
  👩🏻‍💻 I used to work as a Software Engineer (Salesforce developer ☁️) at Barclays 🏦 <br>
